@@ -2,7 +2,7 @@
     package="com.example.SaturnCube">
    <application
         android:label="Json Practice"
-        android:icon="@drawable/image.png">
+        android:icon="@drawable/image">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
